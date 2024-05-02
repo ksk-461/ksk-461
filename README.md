@@ -19,6 +19,7 @@
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=ksk-461&theme=solarized)
 
+![](https://raw.githubusercontent.com/ksk-461/ksk-461/output/github-contribution-grid-snake.svg)
 
 <!--
 **ksk-461/ksk-461** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
